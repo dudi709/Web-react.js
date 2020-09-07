@@ -1,3 +1,0 @@
-npx create-react-app my-app  - יוצר פרויקט בשם my-app
-
-npm install tachyons - דומה לבוסטסראפ
